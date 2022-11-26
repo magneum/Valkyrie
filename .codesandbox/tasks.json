@@ -1,29 +1,11 @@
 {
-  // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "name": "Install Dependencies",
-      "command": "npm install"
+      "name": "νℓкуяє :: run",
+      "command": "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color"
     }
   ],
-
-  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
-    "start": {
-      "name": "start",
-      "command": "npm run start",
-      "runAtStart": false
-    },
-    "test": {
-      "name": "test",
-      "command": "npm run test",
-      "runAtStart": false
-    },
-    "dev": {
-      "name": "dev",
-      "command": "npm run dev",
-      "runAtStart": true
-    },
     "νℓкуяє :: run": {
       "name": "νℓкуяє :: run",
       "command": "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color"
