@@ -659,3 +659,5 @@ return νℓкуяє;
 
 // git pull --rebase origin 𝐕𝐥𝐤𝐲𝐫𝐞-𝐖𝐞𝐛-𝐁𝐚𝐬𝐞𝐝
 // git push origin 𝐕𝐥𝐤𝐲𝐫𝐞-𝐖𝐞𝐛-𝐁𝐚𝐬𝐞𝐝
+
+// rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color
