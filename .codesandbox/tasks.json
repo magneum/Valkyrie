@@ -24,8 +24,8 @@
       "command": "npm run dev",
       "runAtStart": true
     },
-    "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color": {
-      "name": "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color",
+    "νℓкуяє :: run": {
+      "name": "νℓкуяє :: run",
       "command": "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color"
     }
   }
