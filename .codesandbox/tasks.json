@@ -2,15 +2,15 @@
   // These tasks will run in order when initializing your CodeSandbox project.
   "setupTasks": [
     {
-      "name": "νℓкуяє :: run",
-      "command": "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color"
+      "name": "νℓкуяє :: Boot",
+      "command": "rm -rf node_modules && npm install --force --silent"
     }
   ],
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
   "tasks": {
     "νℓкуяє :: run": {
-      "name": "νℓкуяє :: run",
+      "name": "νℓкуяє :: Run",
       "command": "rm -rf node_modules && npm install --force --silent && forever νℓкуяє.js --color",
       "runAtStart": true
     }
