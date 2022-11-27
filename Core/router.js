@@ -4174,8 +4174,8 @@ case "help":
 case "menu":
 case "command":
 case "commands":
-case "🛰️Vlkyre":
-case "✈️Commands":
+case "Valkyrie":
+case "Commands":
 try {
 // await νℓкуяє.spinnies.add("νℓкуяє", {
 // text: "𝐒𝐭𝐚𝐫𝐭𝐞𝐝: " + νℓкуяє.command,

@@ -27,7 +27,7 @@ mentions: [νℓcнαт.sender],
 buttons: [
 {
 buttonId: `${νℓкуяє.prefix}Commands`,
-buttonText: { displayText: `${νℓкуяє.prefix}✈️Commands` },
+buttonText: { displayText: `${νℓкуяє.prefix}Commands` },
 type: 1,
 },
 {
