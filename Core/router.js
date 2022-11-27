@@ -4229,7 +4229,9 @@ try {
 νℓкуяє.sendMessage(
 νℓcнαт.chat,
 {
-text: `❗ Couldn't find any matching commands. Try again with the commands from the help list`,
+text: `❗ Couldn't find any matching commands. Try again with the commands from the help list
+
+NOTE: New Commands Will be added soon...`,
 },
 { quoted: νℓcнαт }
 );
