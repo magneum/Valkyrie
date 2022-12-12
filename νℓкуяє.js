@@ -185,7 +185,7 @@ resolve(
 v.name ||
 v.subject ||
 PhoneNumber("+" + id.replace("@s.whatsapp.net", "")).getNumber(
-  "international"
+"international"
 )
 );
 });
@@ -193,8 +193,8 @@ else
 v =
 id === "0@s.whatsapp.net"
 ? {
-  id,
-  name: "WhatsApp",
+id,
+name: "WhatsApp",
 }
 : id === νℓкуяє.decodeJid(νℓкуяє.user.id)
 ? νℓкуяє.user
@@ -528,13 +528,13 @@ options
 ...content[ctype],
 ...options,
 ...(options.contextInfo
-  ? {
-      contextInfo: {
-        ...content[ctype].contextInfo,
-        ...options.contextInfo,
-      },
-    }
-  : {}),
+? {
+contextInfo: {
+...content[ctype].contextInfo,
+...options.contextInfo,
+},
+}
+: {}),
 }
 : {}
 );
